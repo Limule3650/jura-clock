@@ -1,8 +1,8 @@
 {
-    "name": "Shunabug-bot",
+    "name": "jura-clock",
     "version": "1.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
-    "main": "index.js",
+    "description": "Web clock using Nodejs",
+    "main": "Script.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
